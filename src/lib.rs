@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: Apache-2.0
-// This file is part of Verkel rust crate.
+// This file is part of Verkle rust crate.
 //
 // Copyright (c) 2021 Wei Tang.
 //
